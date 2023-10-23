@@ -1,0 +1,127 @@
+.descripcion {
+  word-wrap: break-word;
+}
+
+.rightSide {
+  width: 400px;
+  margin-left: 40px;
+}
+
+body {
+  background-color: #f5ebe0;
+}
+
+.tallas-container .talla-option {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.tallas-container {
+  margin-bottom: 20px;
+}
+
+.cantidad {
+  max-width: 50px;
+  text-align: center;
+  margin: 0 auto 10px;
+}
+
+.quantity-selector {
+  border: 3px solid #dba39a;
+  border-radius: 5px;
+  height: 45px;
+  width: 105px;
+}
+
+.quantity-selector button,
+.quantity-selector input {
+  background-color: transparent;
+  border: none;
+}
+
+.plus {
+  font-size: 24px;
+}
+
+.less {
+  margin-left: 10px;
+  font-size: 24px;
+}
+
+.plus span,
+.less span {
+  font-size: 24px;
+}
+
+.all-pics img {
+  width: 130px;
+  height: 237px;
+  object-fit: cover;
+  margin: 0px 20px 20px 0px;
+  cursor: pointer;
+}
+
+.main-pic {
+  height: 750px;
+  width: 500px;
+}
+
+.links a {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.links {
+  width: 400px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.addToCart {
+  margin-left: 10px;
+  margin-top: 3px;
+}
+
+.buyNow {
+  margin-top: 15px;
+}
+
+.modal-content-buyNow {
+  background-color: #f5ebe0;
+  height: 500px;
+}
+
+.modal-body-buyNow {
+  height: 700px;
+}
+
+#purchaseNowForm {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.payment-margin {
+  margin-top: 20px;
+}
+
+.buttonBuy {
+  margin-top: 15px;
+  margin-left: 170px;
+}
+
+.new-product {
+  margin-left: 50px;
+}
+
+.new-product p {
+  margin-right: 100px;
+  margin-left: 100px;
+}

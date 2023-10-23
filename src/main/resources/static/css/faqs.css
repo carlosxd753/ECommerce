@@ -1,0 +1,26 @@
+.container {
+  margin-top: 20px;
+  background-color: #f5ebe0;
+}
+h1 {
+  text-align: center;
+}
+h1,
+h2 {
+  font-family: "Neuton", serif;
+}
+.acordion-body {
+  font-family: "Raleway", sans-serif;
+}
+.accordion-button {
+  background-color: #f0dbdb;
+}
+
+body {
+  background-color: #f5ebe0;
+}
+
+.accordion-size {
+  margin-top: 70px;
+  margin-bottom: 138px;
+}

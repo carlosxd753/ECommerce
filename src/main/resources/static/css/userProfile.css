@@ -1,0 +1,21 @@
+body {
+  background-color: #f5ebe0;
+}
+
+table {
+  background-color: #dba39a !important;
+}
+
+.tabla-con-scroll {
+  overflow-y: auto !important;
+  max-height: 400px;
+}
+
+#perfilDeUsuario {
+  margin-bottom: 30px;
+}
+
+.margin-bottom-button {
+  margin-bottom: 30px;
+  margin-left: 1064px;
+}

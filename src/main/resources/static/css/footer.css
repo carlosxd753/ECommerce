@@ -1,0 +1,37 @@
+footer {
+  background-color: #dba39a;
+  height: 300px;
+}
+
+footer > div > p {
+  color: white;
+}
+
+.customer-service {
+  margin-left: 400px;
+  margin-top: 60px;
+}
+
+.follow-us {
+  margin-left: 270px;
+  margin-right: 100px;
+  margin-top: 60px;
+}
+
+.logo-footer {
+  margin-top: 60px;
+  margin-left: 270px;
+}
+
+.instagram,
+.facebook,
+.pinterest {
+  height: 30px;
+  margin-right: 15px;
+}
+
+.faq,
+.faq:hover {
+  text-decoration: none;
+  color: white;
+}

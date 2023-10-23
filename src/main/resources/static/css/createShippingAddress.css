@@ -1,0 +1,14 @@
+body {
+  background-color: #f5ebe0;
+}
+
+.title {
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.create {
+  margin-bottom: 136px;
+  display: flex;
+  margin-left: 1093px;
+}
